@@ -57,22 +57,22 @@ html{
 header{
     background-color: beige;
     padding-bottom: 2rem;
-
+    max-height: 11rem;
+    padding-right: 0;
 }
 
 h1{
     font-size: 5rem;
     padding: 2rem;
-    display: flex;
     color: black;
     font-family: 'New Tegomin', serif;
+    padding-right: 0;
 }
 
 .header-bar{
     font-size: 2rem;
-    display: flex;
-    flex: 4;
     margin-left: 4rem;
+    padding-right: 0;
 }
 
 .header-items{
